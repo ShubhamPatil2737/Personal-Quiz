@@ -27,6 +27,12 @@ function play(question,answer){
   },{
   question:"What is shubham's lucky number? ",
   answer:"7"
+  },{
+    question: "Which is shubham's favourite IPL team? ",
+    answer:"mumbai indians"
+  },{
+    question:"In which university does shubham study curently? ",
+    answer:"amity university"
   }]
 
   for (i=0; i<questions.length; i++){
